@@ -1,7 +1,3 @@
-Got it! I'll help you craft a clear and informative README file for your **EventSchedulerApp**. Below is a structured README that outlines the purpose, setup, and usage of your project.
-
----
-
 # EventSchedulerApp
 
 ## 📌 Overview
